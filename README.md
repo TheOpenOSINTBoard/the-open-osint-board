@@ -49,38 +49,6 @@ Everything runs locally. Your data stays on your machine.
 ![Dashboard](docs/assets/TOOB_SS1.png)
 *Live widget dashboard — event stream, charts, botnet C2 feed, and mini threat map*
 
-### IOC Pivot — Cross-Feed Search
-![IOC Pivot](docs/assets/TOOB_SS2.png)
-*Searching across all feeds simultaneously — matched IOCs, malware samples, feed coverage, and external pivot links*
-
-### IOC Manager
-![IOC Manager](docs/assets/TOOB_SS3.png)
-*Live filterable table of 300+ IOCs aggregated from ThreatFox, Feodo, and URLhaus*
-
-### Live Threat Map
-![Threat Map](docs/assets/TOOB_SS4.png)
-*Active malicious infrastructure geolocated in real time across hundreds of IPs from 8 OSINT sources*
-
-### Eyes on the Ground — Camera Map
-![Eyes on the Ground Map](docs/assets/TOOB_SS5.png)
-*DOT traffic camera network across 40+ US states — click any marker to preview and pin*
-
-### Eyes on the Ground — Pinned Feeds
-![Eyes on the Ground Pinned](docs/assets/TOOB_SS6.png)
-*Pinned cameras showing live road feeds*
-
-### Graph Explorer
-![Graph Explorer](docs/assets/TOOB_SS7.png)
-*Force-directed relationship graph linking threat actors, campaigns, live IOCs, and malware families*
-
-### Settings — API Keys & Configuration
-![Settings Top](docs/assets/TOOB_SS8.png)
-*API key management, backend connection, and data coverage status*
-
-### Settings — Notifications & Export
-![Settings Bottom](docs/assets/TOOB_SS9.png)
-*Browser notification controls, appearance, and global data export*
-
 ---
 
 ## Quick Start
@@ -286,6 +254,10 @@ Results show all feed matches at once, elapsed search time, and the number of fe
 
 The global search bar at the top of every page routes here. After submitting, the search bar dims the query text briefly to confirm the search fired before clearing.
 
+### IOC Pivot — Cross-Feed Search
+![IOC Pivot](docs/assets/TOOB_SS2.png)
+*Searching across all feeds simultaneously — matched IOCs, malware samples, feed coverage, and external pivot links*
+
 ---
 
 ### IOC Manager
@@ -297,6 +269,10 @@ A live, filterable table of all current IOCs aggregated from ThreatFox, Feodo Tr
 - Click any IOC row to expand a full enrichment detail panel: geo data, ASN, AbuseIPDB confidence score, malware family, and feed metadata
 - From the detail panel, link the IOC to an existing Case or add it to your Watchlist
 - Export the full table as CSV, JSON, or STIX 2.1
+
+### IOC Manager
+![IOC Manager](docs/assets/TOOB_SS3.png)
+*Live filterable table of 300+ IOCs aggregated from ThreatFox, Feodo, and URLhaus*
 
 ---
 
@@ -413,6 +389,10 @@ An interactive world map plotting active malicious infrastructure from the live 
 - Click any dot to see the IP address, malware family, ASN, and country
 - The Dashboard also contains a compact mini version of this map as an optional widget
 
+  ### Live Threat Map
+![Threat Map](docs/assets/TOOB_SS4.png)
+*Active malicious infrastructure geolocated in real time across hundreds of IPs from 8 OSINT sources*
+
 ---
 
 ### Eyes on the Ground
@@ -424,6 +404,14 @@ Live DOT traffic camera feeds from 40+ US states via the Road511 API.
 - Pin individual cameras to your board for persistent quick access
 - Camera images refresh automatically
 - Primarily useful for physical situational awareness during infrastructure events, natural disasters, or field operations
+
+### Eyes on the Ground — Camera Map
+![Eyes on the Ground Map](docs/assets/TOOB_SS5.png)
+*DOT traffic camera network across 40+ US states — click any marker to preview and pin*
+
+### Eyes on the Ground — Pinned Feeds
+![Eyes on the Ground Pinned](docs/assets/TOOB_SS6.png)
+*Pinned cameras showing live road feeds*
 
 ---
 
@@ -442,6 +430,10 @@ An interactive force-directed graph that visualises relationships between threat
 - Click any node to inspect its details in the side panel
 - Press **↻ REDRAW** to re-randomise node positions
 
+### Graph Explorer
+![Graph Explorer](docs/assets/TOOB_SS7.png)
+*Force-directed relationship graph linking threat actors, campaigns, live IOCs, and malware families*
+
 ---
 
 ### Settings
@@ -453,6 +445,14 @@ An interactive force-directed graph that visualises relationships between threat
 - **Data Coverage** — shows live / enriched / static status for every feed at a glance
 - **Export** — global export of all currently loaded live data to a single JSON, CSV, or STIX 2.1 file
 - **About** — version and build information
+
+### Settings — API Keys & Configuration
+![Settings Top](docs/assets/TOOB_SS8.png)
+*API key management, backend connection, and data coverage status*
+
+### Settings — Notifications & Export
+![Settings Bottom](docs/assets/TOOB_SS9.png)
+*Browser notification controls, appearance, and global data export*
 
 ---
 
