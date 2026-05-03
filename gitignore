@@ -1,0 +1,20 @@
+# ── API Keys & Secrets ──────────────────────────────────────────
+backend/config.json
+backend/.session_secret
+
+# ── Runtime Data (auto-generated on first run) ───────────────────
+backend/data/
+
+# ── Python ──────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# ── macOS ───────────────────────────────────────────────────────
+.DS_Store
+
+# ── Windows ─────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
