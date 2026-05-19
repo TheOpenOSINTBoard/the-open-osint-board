@@ -1,0 +1,72 @@
+MIT License
+
+Copyright (c) 2026 Aaron Fitzpatrick
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+-----------------------------------------------------------------
+
+DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, OR NON-INFRINGEMENT.
+THE AUTHOR DOES NOT REPRESENT OR WARRANT THAT:
+
+  (A) THE SOFTWARE WILL BE SECURE, UNINTERRUPTED, TIMELY, OR ERROR-FREE,
+      OR THAT IT WILL OPERATE IN COMBINATION WITH ANY OTHER HARDWARE,
+      SOFTWARE, SYSTEM, OR DATA;
+
+  (B) THE SOFTWARE OR ANY THREAT INTELLIGENCE DATA IT AGGREGATES WILL MEET
+      YOUR REQUIREMENTS OR PRODUCE ANY PARTICULAR RESULTS;
+
+  (C) ERRORS OR DEFECTS WILL BE CORRECTED, OR THAT PATCHES OR WORKAROUNDS
+      WILL BE PROVIDED;
+
+  (D) THE SOFTWARE IS FREE OF VIRUSES, MALICIOUS CODE, OR OTHER HARMFUL
+      COMPONENTS; OR
+
+  (E) ANY THIRD-PARTY DATA SOURCES, FEEDS, OR APIs INTEGRATED WITH THE
+      SOFTWARE WILL REMAIN AVAILABLE, ACCURATE, OR UNINTERRUPTED.
+
+-----------------------------------------------------------------
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY OF ANY KIND, WHETHER IN AN ACTION OF CONTRACT,
+TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR INABILITY TO USE
+THE SOFTWARE, INCLUDING BUT NOT LIMITED TO:
+
+  - LOSS OF PROFITS, REVENUE, DATA, BUSINESS, OR GOODWILL;
+  - INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES;
+  - DAMAGES ARISING FROM RELIANCE ON THREAT INTELLIGENCE DATA, IOC FEEDS,
+    OR ANY OTHER INFORMATION DISPLAYED OR PROCESSED BY THE SOFTWARE;
+  - DAMAGES ARISING FROM SECURITY INCIDENTS, DATA BREACHES, OR UNAUTHORIZED
+    ACCESS THAT OCCUR DESPITE OR IN CONNECTION WITH USE OF THE SOFTWARE;
+
+EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+-----------------------------------------------------------------
+
+INTENDED USE
+
+OpenOSINTBoard is provided for educational, research, and informational
+purposes. It is a local open-source tool intended to aggregate publicly
+available threat intelligence data. It is not a substitute for professional
+cybersecurity services, and the author makes no representations regarding
+the suitability of this software for any operational security purpose.
+
+Users are solely responsible for determining the appropriateness of using
+or redistributing the software and assume all risks associated with its use.
+
+-----------------------------------------------------------------
