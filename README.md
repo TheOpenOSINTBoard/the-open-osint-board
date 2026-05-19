@@ -53,9 +53,10 @@ Everything runs locally. Your data stays on your machine.
 
 ## Quick Start
 IMPORTANT: 
-**python3 is required in order to run the backend server
-**Windows: Run cmd in Administrator mode then type in the following command: winget install python3
-**Linux: sudo apt install python3
+- **python3 is required in order to run the backend server
+- **Windows: Run cmd in Administrator mode then type in the following command: winget install python3
+- **Linux: sudo apt install python3
+
 **Windows:**
 ```
 Double-click start.bat
